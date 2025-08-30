@@ -1,1 +1,2 @@
-This is the first line by Dorothy. this is the second line by jaysoul
+This is the first line by Dorothy
+This is the second line by Jessica
